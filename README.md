@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jpcampaya" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/jpcampaya?trk=profile-badge">Juan (JP) Campaya</a></div>
+
 I have around 20 years of experience working in the IT industry, starting my journey from technical specialized positions to later move into technical project management. Likewise, I have always enjoyed learning about technical aspects of projects while mastering my project management skills.
 
 Nowadays, I find myself totally fascinated by the Blockchain and Crypto industry and I am eager to look for new challenges in the field. I not only have knowledge and experience with different Blockchain technologies but am also an active user of dApps and NFTs, and have a very good level of understanding of DeFi. Moreover, I totally love to boost my knowledge about technical and financial aspects of the industry. 
