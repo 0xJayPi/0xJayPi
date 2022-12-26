@@ -6,7 +6,7 @@ Nowadays, I find myself totally fascinated by the Blockchain and Crypto industry
 
 Main Competences: Blockchain, Project Management, Development, IT, Data Science, English (bilingual), Spanish (mother tongue)
 
-### Thanks fo passing by!
+### Thanks for passing by!
 
 [![JP Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpcampaya/)
 [![JP Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xJayPi)
