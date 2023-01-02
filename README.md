@@ -6,6 +6,8 @@ Nowadays, I find myself totally fascinated by the Blockchain and Crypto industry
 
 Main Competences: Blockchain, Project Management, Development, IT, Data Science, English (bilingual), Spanish (mother tongue)
 
+Featured Tech Stack: JavaScript, Solidity, Python, Hardhat, Ethers.js, Web3.js, Scaffold.eth, AWS, Node.js, React, The Graph, Git, GitHub, NextJS
+
 ### Thanks for passing by!
 
 [![JP Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpcampaya/)
