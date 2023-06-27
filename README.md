@@ -4,7 +4,7 @@ I'm Blockchain enthusiastic and eager to look for new challenges in the industry
 
 Main Competences: Blockchain, Development, Security, Project/Product Management
 
-Featured Tech Stack: JavaScript, Solidity, Python, Hardhat, Ethers.js, Web3.js, Scaffold.eth, AWS, Node.js, React, The Graph, Git, GitHub, NextJS
+Featured Tech Stack: JavaScript, Solidity, Python, Hardhat, Ethers.js, Web3.js, Scaffold.eth, AWS, Node.js, The Graph, Git, GitHub
 
 ### Thanks for passing by!
 
